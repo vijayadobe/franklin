@@ -1,0 +1,9 @@
+.cmp-accordion__header {
+    border-bottom: 1px solid #ccc;
+}
+.cmp-accordion__panel {
+    display: none;
+}
+.cmp-accordion__panel.cmp-accordion__panel--expand {
+    display: block;
+}
